@@ -3,6 +3,6 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-javascript-projects/master/praveenorugantitech-movie-search/screenshot.PNG "Movie Search")
 
 
-[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-javascript-projects/praveenorugantitech-movie-search/Demo)
+[Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-movie-search-js/Demo/)
 
 
